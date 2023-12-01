@@ -15,8 +15,14 @@ In this lab, you will complete the following tasks:
 
 ### Protecting your data using Microsoft Purview 
 
-1. In the Search bar of the browser, type *https://compliance.microsoft.com/homepage*, then  sign in using the **credentials** provided to you duing the lab.
+1. Open the Microsoft edge and in the Search bar browse **https://compliance.microsoft.com/homepage**,
 
+1. Sign in using the following **credentials**.
+    
+    - **Email/Username:** <inject key="AzureAdUserEmail"></inject>
+
+    - **Password:** <inject key="AzureAdUserPassword"></inject>
+ 
 1. you can protect your sensitive data using **Sensitivity label, Encryption messages and documents, Microsoft Defender, Microsoft Information Protection SDK extension for web browser, Data classification**.
 
    **Note**: We will take a look into how they work in preceding labs and providing brief information about the steps to configure.
