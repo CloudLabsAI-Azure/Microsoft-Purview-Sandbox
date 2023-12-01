@@ -25,19 +25,33 @@ In this task, you will create an encryption rule for messages inside your Exchan
 
 1. In the **Exchange admin center**, select **Mail flow** > **Rules** > **+ Add a rule** > **Create a new rule**.
 
+    ![Picture 1](../media/image1-lab3.png)
+
 1. In the **Set rule conditions** window, in the **Name** box, enter **Encrypt mail** as the name of this rule.
 
 1. Select the drop-down arrow in the **Apply this rule if** condition box. In the drop-down menu, select **the recipient** and **is this 
     person** and on **Select members** blabe select <inject key="AzureAdUserEmail"></inject> click on **Save**.
+    ![Picture 1](../media/image2-lab3.png)
+    ![Picture 1](../media/image3-lab3.png)
 
 1. You need to add more conditions, so next to **is this person** click the **+** to the right.
-   
+    ![Picture 1](../media/image4-lab3-4-2.png)
+
 1. Under **And** select **The recipient** and **is external/internal**. In the blade that opens to the right, select **Outside the organization** > **Save**.
+   ![Picture 1](../media/image4-lab3-4.png)
+   ![Picture 1](../media/image4-lab3-4-1.png)
 
 1. You now need to define an action to perform when this rule is applied. Under **Do the following…**, select **Modify the message security….** and **Apply Microsoft 365 Message Encryption and rights protection.**
+    ![Picture 1](../media/image4-lab3.png)
+
 1. In the **select RMS template** dialog box, select **Encrypt** > **Save**. Click **Next**.
-1. On the **Set rule settings** window, click the checkbox next to **Activate this rule on**. That should automatically populate a date and time that will make the rule take effect immediately upon completion. Click **Next** > **Finish** > **Done**.
+   ![Picture 1](../media/image5-lab3.png)
+1. On the **Set rule settings** window, click the checkbox next to **Activate this rule on**. That should automatically populate a date and time that will make the rule take effect immediately upon completion.
+   ![Picture 1](../media/image6-lab3.png)
+1. Click **Next** > **Finish** > **Done**.
+
 1. In the **Rules** window, click the name of the rule under the **Rules** column. In the window that opens to the right, click the toggle under **Enable or disable rule** to enable the rule. Close the window.
+   ![Picture 1](../media/image8-lab3.png)
 1. Leave your browser session open for the next exercise.
 
 ## Review
