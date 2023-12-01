@@ -32,7 +32,7 @@ In this task, you will create an encryption rule for messages inside your Exchan
 1. Select the drop-down arrow in the **Apply this rule if** condition box. In the drop-down menu, select **the recipient** and **is this 
     person** and on **Select members** blabe select <inject key="AzureAdUserEmail"></inject> click on **Save**.
     ![Picture 1](../media/image2-lab3.png)
-    ![Picture 1](../media/image3-lab3.png)
+    ![Picture 1](../media/image3-lab(3).png)
 
 1. You need to add more conditions, so next to **is this person** click the **+** to the right.
     ![Picture 1](../media/image4-lab3-4-(2).png)
