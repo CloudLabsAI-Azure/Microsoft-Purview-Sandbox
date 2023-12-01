@@ -29,8 +29,8 @@ In this lab, you will complete the following task:
 
 5. In the list of mail flow rules, select the rule you want to modify to use with Microsoft Purview Message Encryption and then choose **Edit** icon.
 
-6. To enable encryption using Microsoft Purview Message Encryption, from **Do the following**, choose **Modify the message security**and then choose **Apply Office 365 
-   Message Encryption and rights protection**. Select an RMS template from the list, choose **Save** and then choose **OK**.
+6. To enable encryption using Microsoft Purview Message Encryption, from **Do the following**, choose **Modify the message security**and then 
+   choose **Apply Office 365  Message Encryption and rights protection**. choose **Save** and then choose**OK**.
 
 7. From the **Do the following list**, remove any actions that are assigned to **Modify the message security** > **Apply the previous version of OME**.
 
