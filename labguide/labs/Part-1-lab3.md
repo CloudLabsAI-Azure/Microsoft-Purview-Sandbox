@@ -35,11 +35,11 @@ In this task, you will create an encryption rule for messages inside your Exchan
     ![Picture 1](../media/image3-lab3.png)
 
 1. You need to add more conditions, so next to **is this person** click the **+** to the right.
-    ![Picture 1](../media/image4-lab3-4-2.png)
+    ![Picture 1](../media/image4-lab3-4-(2).png)
 
 1. Under **And** select **The recipient** and **is external/internal**. In the blade that opens to the right, select **Outside the organization** > **Save**.
    ![Picture 1](../media/image4-lab3-4.png)
-   ![Picture 1](../media/image4-lab3-4-1.png)
+   ![Picture 1](../media/image4-lab3-4-(1).png)
 
 1. You now need to define an action to perform when this rule is applied. Under **Do the following…**, select **Modify the message security….** and **Apply Microsoft 365 Message Encryption and rights protection.**
     ![Picture 1](../media/image4-lab3.png)
